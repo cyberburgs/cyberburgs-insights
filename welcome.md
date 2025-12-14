@@ -49,19 +49,6 @@ Cyberburgs Insights was created to:
 
 ---
 
-## 📡 Smart Sync Publishing Engine
-
-All posts on Cyberburgs Insights are powered by our **Smart Sync Engine**, which automatically fetches content directly from our GitHub repository.
-
-This ensures:
-- 🔄 Version-controlled knowledge  
-- ⚡ Instant publishing without CMS overhead  
-- 🧩 Clean integration with our security ecosystem  
-
-If you’re contributing, simply push a Markdown file — the platform handles the rest.
-
----
-
 ## 🚀 Let’s Build Secure Knowledge Together
 
 Whether you are documenting a breach, analyzing a threat actor, or exploring the future of cyber defense — **your insight matters**.
